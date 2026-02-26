@@ -15,16 +15,32 @@ Welcome! We're glad you want to contribute to the ORB project! 💖
 
 We welcome ideas, feedback, questions, and suggestions.
 
-For feedback or questions about ORB **code**, please create an issue in the
-corresponding **code repository**.
+For comments about ORB **code, data, or UI**, please create an issue in the
+corresponding **sub-project repository**.
 
-For feedback or questions about **overall ORB governance, roadmap, or
-strategy**, feel free to create an issue in **this repository**.
+For comments about **overall ORB governance, roadmap, or strategy**, feel free
+to create an issue in **this repository**.
+
+### Review the data
+
+If you are a member of the [CURIOSS](https://curioss.org/) group, you can access
+the ORB data for your university! Just create an issue in any of the ORB
+repositories or email juanitagomezr2112@gmail.com, and we'll share it with you.
+We would love your feedback on the accuracy of the pipeline's predictions.
+
+### Review the UI
+
+We hope to have the [repoexplorer](https://github.com/juanis2112/repoexplorer)
+dashboard (a Shiny app) deployed on the web soon. In the meantime,
+[CURIOSS](https://curioss.org/) members can download the data and deploy the app
+locally if they wish. Please let us know what you think of the existing features
+and what features you'd like to see next.
+
+### Review the code
 
 Since this project is moving very quickly, we recommend starting with an issue
-rather than a PR. If you'd like to contribute some code and the maintainers
-confirm that the feature is in scope, then here are some suggestions to improve
-your PR (and its chances of being accepted):
+rather than a PR. If the maintainers confirm that a PR is appropriate, then here
+are some suggestions to improve your PR (and its chances of being accepted):
 
 - Include a clear description of what the PR does and why.
 - Keep the PR focused on one "logical" update, not multiple unrelated updates.
@@ -68,7 +84,8 @@ sharing your own ideas, and experiences.
 ## Contact us
 
 We generally try to keep our conversations on GitHub, but if you prefer to use
-email, you can email ospo@ucsb.edu, or any of the folks listed here:
+email, you can email ospo@ucsb.edu, juanitagomezr2112@gmail.com, or any of the
+folks listed here:
 [https://ucospo.net/about/#contact-us](https://ucospo.net/about/#contact-us)
 
 ## Code of Conduct
