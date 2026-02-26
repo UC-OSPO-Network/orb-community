@@ -83,7 +83,7 @@ similar systems. Consent means "good enough for now, safe enough to try".
 Consent does NOT mean that the consenter likes the proposal. It merely means
 that they did not produce a reasoned, paramount objection.
 
-![A diagram of partially overlapping circles illustrating the concept of consent, which refers to a range of tolerance. The preference circle lies entirely within the tolerance circle, while objections lie outside of the tolerance circle.](./images/consent_decision_making.png)
+![A diagram of partially overlapping circles illustrating the concept of consent, which refers to a range of tolerance. The preference circle lies entirely within the tolerance circle, while objections lie outside of the tolerance circle.](./images/consent_decision_making_img.png)
 Consent indicates tolerance, but not necessarily preference.
 [https://www.sociocracyforall.org/consent-decision-making/](https://www.sociocracyforall.org/consent-decision-making/)
 
