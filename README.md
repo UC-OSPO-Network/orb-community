@@ -1,18 +1,23 @@
-# Templates
+# Open Repository Browser (ORB) community docs
 
-This repo contains templates you can check out to help you build the documentation in your project repos.
+This repo contains policies and guidelines that pertain to the UC OSPO Network's
+ORB project. The ORB project consists of multiple sub-projects with their own
+repos, so we created a single repo for shared project documents.
 
-## How to use the templates
+## Directory of ORB project repos
 
-- If you don't have a repo for your project already, [create a repo from our template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template). This will include all the files you need!
-- If you already have a repo and you'd like to just add these docs files to it, you can:
-  - Open the file you'd like to copy
-  - Click the "Raw" button to preserve the formatting
-  - Create a new file and paste the text into it
-- [Use our guides](https://ucospo.net/oss-resources/#template-guides) to help you customize the templates for your project
+- [repofinder](https://github.com/UC-OSPO-Network/repofinder): A tool to
+  identify and analyze open-source repositories affiliated with universities
+  using GitHub metadata and contributor analysis.
+- [repoexplorer](https://github.com/juanis2112/repoexplorer): An interactive
+  Shiny dashboard for exploring university open source repositories,
+  contributors, and activity.
+- [orb-showcase](https://github.com/UC-OSPO-Network/orb-showcase): A web
+  application for displaying data collected by the repofinder pipeline.
 
-Please feel free to [reach out to our Laura](mailto:lalangdon@ucdavis.edu), our Community Manager, if you have any questions!
+## Contents
 
-## Formatting considerations
-
-As you'll see in the templates, these files are most commonly written in [Markdown](https://www.markdownguide.org/). It's important to make sure your files are accessible, and this is a great guide: [Accessible Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/).
+- [GOVERNANCE.md](./GOVERNANCE.md): How we make decisions
+- [MEMBERS.md](./MEMBERS.md): Who we are
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md): How we treat each other
+- [CONTRIBUTING.md](./CONTRIBUTING.md): How you can contribute
