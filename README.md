@@ -21,3 +21,4 @@ repos, so we created a single repo for shared project documents.
 - [MEMBERS.md](./MEMBERS.md): Who we are
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md): How we treat each other
 - [CONTRIBUTING.md](./CONTRIBUTING.md): How you can contribute
+- [meetings/](./meetings/): Summaries of our monthly community calls
